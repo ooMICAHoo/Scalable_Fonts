@@ -10,9 +10,12 @@
 using namespace std;
 
 int main() {
+	int statik = 5;
 	Fonts font;
-	font.askForVariables();
-	font.printCharacters();
+	while (statik == 5) {
+		font.askForVariables();
+		font.printCharacters();
+	}
 
 	return 0;
 }

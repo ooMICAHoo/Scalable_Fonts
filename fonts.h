@@ -19,4 +19,39 @@ class Fonts {
 
 	private:
 		void printA();
+		
+		void printC();
+
+		void printE();
+		void printF();
+
+		void printH();
+		void printI();
+		void printJ();
+		
+		void printL();
+		
+		
+		void printO();
+		void printP();
+		
+		
+		void printS();
+		void printT();
+		void printU();
+
+
+
+
+
+
+
+
+
+
+
+
+
+		void printPer();
+		void printExc();
 };
